@@ -1,0 +1,6 @@
+data/nmodels/.gitignore
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
